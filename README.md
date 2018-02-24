@@ -1,4 +1,4 @@
-City Lights Color Theme
+City Lights Color Theme for Operator font
 
 ![Image of the city lights color theme](http://citylights.xyz/assets/images/atom/city-lights-syntax-theme.png)
 
